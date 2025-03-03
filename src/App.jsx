@@ -36,7 +36,7 @@ function App() {
 
         <Routes>
           <Route
-            path="/"
+            path="/OtterMapTask"
             element={
               <div className="max-w-md mx-auto mb-8">
                 <form onSubmit={handleSearch} className="flex items-center p-4">
