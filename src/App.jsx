@@ -28,7 +28,7 @@ function App() {
   return (
     <Router>
       <nav className="bg-blue-200 p-4 text-white">
-        <Link to="/" className="text-white text-2xl">Home</Link> 
+        <Link to="/OtterMapTask" className="text-white text-2xl">Home</Link> 
         <span className='text-2xl  p-2'>|</span>
          <Link to="/map" className="hover:text-white-200 text-2xl">Map</Link>
       </nav>

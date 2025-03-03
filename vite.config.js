@@ -8,6 +8,6 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base:"/OtterMapTask/"
+  base:"/OtterMapTask"
 
 })
